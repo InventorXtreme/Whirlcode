@@ -1,0 +1,5 @@
+var,str,yeet2,1
+var,str,yeet,2
+math,add var to var,yeet,yeet2,bruh
+IO,out,var,bruh
+end
