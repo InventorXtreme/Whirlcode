@@ -1,2 +1,2 @@
-IO,out,str,help
+text,helpme,test
 end

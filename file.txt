@@ -1,5 +1,7 @@
-var,str,yeet2,1
-var,str,yeet,2
-math,add var to var,yeet,yeet2,bruh
-IO,out,var,bruh
+title,idboi,News Title
+text,yeet,body of article
+img,help,XCH.GIF
+img,yer,sh.jpg
+link,1,x,test link,file2.txt
+link,2,x2,test link2,file3.txt
 end
